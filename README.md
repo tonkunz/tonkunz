@@ -1,6 +1,7 @@
-<h1 align="center"> Hi 👋, nice to see you here!!! </h1>
+<h2 align="center"> Hi 👋, nice to see you here!!! </h2>
 <p align="center">My name is Everton Kunz and I'm a Front-end developer from Brazil. You can connect with me by my <a href="https://www.linkedin.com/in/evertonkunz/">Linkedin</a>.</p>
 
+<!--
 <div align="center">
   <span>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -9,8 +10,10 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   </span>
 </div>
+-->
+
 <div align="center">
-  <img width="250em" src="https://i.imgur.com/oweEsmR.gif" />
+  <img width="300px" src="https://i.imgur.com/oweEsmR.gif" />
 </div>
 </br>
 
@@ -20,7 +23,7 @@
 </div>
 
 
- 
+ <!--
 <h3 align="center"> 🚀 Frameworks </h3>
 <div align="center">
   <span>
@@ -31,5 +34,5 @@
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   </span>
 </div>
-
+-->
       
